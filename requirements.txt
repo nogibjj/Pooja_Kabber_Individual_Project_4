@@ -1,0 +1,6 @@
+psycopg2-binary
+psycopg2
+streamlit
+fastapi
+uvicorn[standard]
+uvicorn
